@@ -19,3 +19,5 @@ function miniMaxSum(arr) {
 }
 let array = [1, 3, 5, 7, 9];
 miniMaxSum(array);
+let array2 = [1, 3, 5, 7, 9];
+miniMaxSum(array);
